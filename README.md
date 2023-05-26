@@ -32,4 +32,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   </a>
 </p>
 
+- https://github.com/rocketseat-education/nlw-12-spacetime-ignite/tree/main
+- https://efficient-sloth-d85.notion.site/Trilha-Ignite-e2ed19139b544a46984a28b65dcd4aae
 <!--END_SECTION:footer-->
